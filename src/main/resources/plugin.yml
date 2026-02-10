@@ -1,0 +1,19 @@
+name: AirdropPlus
+version: 2.0
+main: me.ritzy.airdropplus.AirdropPlus
+api-version: 1.21
+author: Ritzy
+description: Advanced scheduled airdrop system for Leaf/Purpur 1.21.4
+
+commands:
+  airdrop:
+    description: Main airdrop command
+    usage: /airdrop
+
+permissions:
+  airdrop.admin:
+    default: op
+  airdrop.spawn:
+    default: op
+  airdrop.editor:
+    default: op

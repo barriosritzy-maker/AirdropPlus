@@ -1,0 +1,17 @@
+timezone: "GMT+8"
+
+countdown:
+  seconds: 60
+
+protection:
+  radius: 10
+  disable-pvp: true
+  block-break-protect: true
+
+airdrops:
+  rare:
+    daily-times:
+      - "16:00"
+      - "20:00"
+    random-radius: 100
+    world: world
